@@ -1,6 +1,6 @@
 **What are the most  optimal skills to learn to secure a job in Data Analytics?**
 
-In order to present an Answer to this question, I broke this main quesiton into 5 smaller questions which could each be answered by a SQL query : 
+In order to present an Answer to this question, I broke this main question down into 5 smaller questions which could each be answered by a SQL query : 
 
 What are the top paying jobs for my role?
 
