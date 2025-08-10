@@ -14,6 +14,9 @@ What are the most Optimal skills to learn?
 
 a) Skills that are in high demand and high paying 
 
+Findings
+
+
 
 
 
